@@ -1,0 +1,23 @@
+# T01 PROJECT_BRIEF_TEMPLATE
+project_id:
+project_name:
+format:
+target_platform:
+target_duration:
+aspect_ratio:
+genre:
+audience:
+creative_direction:
+story_control_owner:
+dialogue_control_owner:
+visual_control_owner:
+key_shot_control_owner:
+delivery_definition:
+available_tools:
+budget_or_credit_limits:
+publication_authority:
+hard_constraints:
+known_unknowns:
+current_stage:
+approved_by:
+approved_at:
