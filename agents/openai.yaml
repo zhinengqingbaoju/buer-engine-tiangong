@@ -1,6 +1,6 @@
 interface:
   display_name: 不二引擎·天工
-  short_description: 不二引擎·天工，HELL GRIND 影视制作资料入口。用户指定使用 HELL GRIND、HELL 或 hello 项目制作方法，处理资产、图片、表演、视频提示词、审片返修或后期任务时使用；按任务读取四份完整原文。
+  short_description: 不二引擎·天工 AI影视生产系统的兼容入口与公开发布索引。Muse生产运行由11阶段、7岗位、四核心、PROJECT_STATE、模板与模型适配器直接组成，不依赖隐式调用本入口。
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
@@ -9,4 +9,4 @@ policy:
   - codex
   - api
   - atlas
-  allow_implicit_invocation: true
+  allow_implicit_invocation: false
