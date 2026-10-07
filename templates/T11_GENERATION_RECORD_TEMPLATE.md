@@ -1,0 +1,26 @@
+# T11 GENERATION RECORD
+generation_id:
+object_id:
+shot_id:
+prompt_id:
+prompt_version:
+model:
+model_version:
+adapter_version:
+mode:
+actual_references:
+actual_parameters:
+prepared_at:
+send_status:
+submitted_at:
+provider_status:
+completed_at:
+result_file:
+drive_url:
+reroll_index:
+cost_or_credits:
+cost_evidence:
+error:
+qa_status:
+selection_status:
+notes:
