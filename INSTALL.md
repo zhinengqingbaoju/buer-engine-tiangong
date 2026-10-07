@@ -18,7 +18,7 @@
 GitHub RC 分支负责版本源；Muse Skill 目录负责运行；项目目录负责项目状态。三者职责分离。
 
 安装顺序：
-1. 只在用户明确执行21.26时清理旧聊天、测试Skill、tiangong_smoke_test；保留必要即梦/MiniMax登录状态与连接授权。
+1. 执行21.26时删除/停用旧版天工Skill、旧测试Skill、旧测试聊天与 tiangong_smoke_test；新版天工不与旧Skill并存。保留必要即梦/MiniMax登录状态与连接授权。
 2. 将本候选分支内容部署到 /home/hatch/workspace/skills/buer-engine-tiangong/，作为唯一运行副本。
 3. 校验 SKILL.md、system/、roles/、adapters/、templates/、provenance/、references/、project_init/ 均存在；四份核心 references SHA 必须与登记值一致。
 4. 创建 /home/hatch/workspace/projects/dongbei_xiyouji/ 及 PROJECT_STATE、TASK_QUEUE、Registries、records 目录。
@@ -28,3 +28,7 @@ GitHub RC 分支负责版本源；Muse Skill 目录负责运行；项目目录�
 8. 跑四项快速验收：Skill跨窗、State跨窗读写、越权拒绝、执行待办链。
 
 通过四项后进入真实项目验证；未通过则记录 BLOCKED，不回退成旧9窗口。
+
+## 新版 Skill 的定位
+
+新版 `SKILL.md` 只是系统启动器/路由器。它不再携带第二套制作规则；所有专业规则分别来自宪法、四核心、系统模块、当前项目状态和模型适配器。旧版天工Skill必须移除，避免两个入口同时生效。
