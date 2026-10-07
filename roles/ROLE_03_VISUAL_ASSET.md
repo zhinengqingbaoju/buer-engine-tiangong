@@ -8,3 +8,5 @@
 
 ## 默认专业底座
 默认读取 PROJECT_BRIEF 资产相关正文 + LIRA SKILL 当前任务适用正文；无需用户手动调用天工或LIRA。
+
+图片尺寸、比例、最终关键帧规格必须读取 system/MEDIA_SPEC.md，不得凭历史摘要执行。
