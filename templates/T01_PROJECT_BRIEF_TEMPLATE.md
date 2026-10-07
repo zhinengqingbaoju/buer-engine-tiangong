@@ -18,6 +18,7 @@ budget_or_credit_limits:
 publication_authority:
 hard_constraints:
 known_unknowns:
-current_stage:
 approved_by:
 approved_at:
+
+Note: current_stage 不写入 Project Brief；实时阶段只属于 PROJECT_STATE。
