@@ -12,7 +12,7 @@
    /home/hatch/workspace/projects/dongbei_xiyouji/
    使用 project_seed/ 中的文件作为初始状态。
 6. 校验 references/ 四核心文件SHA与 provenance/SOURCE_REGISTRY.md 一致。
-7. 校验 roles/ 7岗位、templates/ 15模板、adapters/ 3适配器、system/CORE_BINDINGS.md、system/MEDIA_SPEC.md 存在。
+7. 校验 roles/ 7岗位、templates/ 15模板、adapters/ 3适配器、system/CORE_BINDINGS.md、system/MEDIA_SPEC.md、system/PARALLEL_EXECUTION.md 存在。
 8. 准备7个固定聊天窗口：
    主要聊天｜总控制片
    剧本叙事
