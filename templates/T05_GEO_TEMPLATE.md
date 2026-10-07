@@ -11,7 +11,7 @@ character_start_zones:
 prop_locations:
 screen_directions:
 axis_180:
-camera_side:
+allowed_camera_sides:
 main_light_direction:
 restricted_zones:
 continuity_in:
