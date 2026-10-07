@@ -18,12 +18,12 @@ current_stage: UNKNOWN_PENDING_MIGRATION_AUDIT
 - 历史目录“狐仙庙”可保留文件名，但生产事实用“狐仙堂”。
 
 锁定资产Source of Truth：
-东北西游记_锁定资产清单与归档规则_v09_20261007.md
+东北西游记_锁定资产清单与归档规则_v15_20261007.md
 https://drive.google.com/file/d/1b2PYRiBPja1HGWMHiwKsmDSYqhbpF7_j/view?usp=drivesdk
 统一入口：https://drive.google.com/drive/folders/1ydeEH8s3WeKNjF0kiwEJKZxIIyRQKnzD
-v09记录38张锁定原图。导入时不得把候选/历史参考升级为锁定。
+v15记录40张锁定原图。导入时不得把候选/历史参考升级为锁定。
 
-关键当前资产链接由v09清单解析到ASSET_REGISTRY，不在本初始化文件重复定义人物描述，避免双重事实源。
+关键当前资产链接由v15清单解析到ASSET_REGISTRY，不在本初始化文件重复定义人物描述，避免双重事实源。
 
 迁移警告：现有“10秒宣传片剧本v04”仍含“天宫偏殿”，导入历史但标 SCRIPT_NEEDS_PATCH_LOCATION；安装后由剧本窗口生成新版本，将地点更新为狐仙堂，不静默覆盖v04，其他已确认动作/时间/人物/道具保持。
 
