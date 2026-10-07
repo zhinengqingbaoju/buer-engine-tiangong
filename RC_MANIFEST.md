@@ -21,6 +21,7 @@ main_branch_modified: no
 - system/MEDIA_SPEC.md
 - system/CORE_BINDINGS.md
 - system/ROUTE_CHANGE_LOG.md
+- system/PARALLEL_EXECUTION.md
 
 新增岗位：
 - roles/ROLE_01_CONTROLLER.md
@@ -55,3 +56,9 @@ T01–T15 全部存在。
 - 21.32六路独立Agent终审未执行。
 
 因此不得称稳定版。
+
+Muse冷启动：
+- muse/ONE_CLICK_INSTALL.md
+- muse/WINDOW_BOOTSTRAP.md
+
+项目种子：project_seed/ 下的 PROJECT_STATE / TASK_QUEUE / Decision / Script / Asset / Scene / GEO / Shot Registries + records说明。
