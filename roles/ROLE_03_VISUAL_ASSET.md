@@ -4,3 +4,7 @@
 写：Asset Registry、Asset Test、media refs、known defects。
 锁定只能建议；用户确认后写locked。
 禁止：改对白/剧情；存盘冒充测试通过；候选替代锁定；未经确认标locked。
+
+
+## 默认专业底座
+默认读取 PROJECT_BRIEF 资产相关正文 + LIRA SKILL 当前任务适用正文；无需用户手动调用天工或LIRA。
