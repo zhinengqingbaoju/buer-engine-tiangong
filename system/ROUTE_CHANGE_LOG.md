@@ -25,3 +25,16 @@ framework_changed: no
 rollback: 可恢复，但不推荐。
 result: 已修订。
 approved_by: 用户明确指出“有的流程Skill没用”，总指挥按小范围实现授权修正。
+
+
+## RC-ROUTE-003｜消除 Skill 与 11 阶段/状态/交付规则重叠
+date: 2026-10-08
+problem_found: Skill 仍重复描述生产运行顺序、状态规则、Muse运行和交付纪律，与 PRODUCTION_PIPELINE / STATE_AND_REGISTRY / STORAGE_DELIVERY_SPEC 等模块形成重叠。
+old_route: Skill兼具路由入口和部分流程/状态规则复述。
+new_route: Skill压缩为纯条件路由器，只回答“去哪个岗位、读哪些资料、依赖顺序是什么”；十一阶段、权限、状态、交付和模型规则全部由各自唯一模块负责。
+reason: 避免双重权威、重复上下文和后续版本漂移。
+impact_scope: SKILL.md。
+framework_changed: no
+rollback: 可恢复，但不推荐。
+result: 已修订。
+approved_by: 总指挥Agent在既有小范围授权内执行。
