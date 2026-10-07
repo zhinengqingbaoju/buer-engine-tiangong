@@ -28,7 +28,7 @@ Muse 冷启动包不把 `SKILL.md` 或 `agents/openai.yaml` 注册成运行 Skil
 3. 校验 system/、roles/、adapters/、templates/、provenance/、references/、project_init/ 均存在。
 4. 校验四核心 references SHA 与 SOURCE_REGISTRY 一致。
 5. 创建 /home/hatch/workspace/projects/dongbei_xiyouji/，初始化 PROJECT_STATE、TASK_QUEUE、Registries、records。
-6. 导入 project_init/DBXYJ_INIT.md；锁定资产以 v09 Drive 清单为项目 Source of Truth。
+6. 导入 project_init/DBXYJ_INIT.md；锁定资产以 v15 Drive 清单为项目 Source of Truth。
 7. 建立7个窗口：主要聊天、剧本叙事、视觉资产、导演分镜、生成工程、审片质检、剪辑后期。
 8. 每个窗口一次性写入其岗位启动指令；之后直接按岗位工作，不要求用户调用“天工 Skill”。
 9. 当前跨窗调度：总控写 Task → 用户进入目标 Side Chat 发送“执行待办” → 窗口读共享状态/任务 → 执行 → 回写。
