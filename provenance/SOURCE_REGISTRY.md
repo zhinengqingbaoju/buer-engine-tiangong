@@ -14,7 +14,7 @@ L5 历史研究 / 第三方重建 / 社区经验
 ## A｜用户与《东北西游记》项目事实
 A-001｜项目当前明确指令与已批准创作决定｜持续更新｜L0｜ACTIVE｜全系统｜项目记录｜最高项目事实
 A-002｜东北西游记项目指南.md｜v01_20261005｜L0/L3｜ACTIVE_REFERENCE｜项目导航｜Library｜不是四核心原文替代物
-A-003｜东北西游记_锁定资产清单与归档规则_v09_20261007.md｜v09｜L0｜ACTIVE_CANONICAL｜资产/状态/归档｜https://drive.google.com/file/d/1b2PYRiBPja1HGWMHiwKsmDSYqhbpF7_j/view?usp=drivesdk｜当前锁定资产Source of Truth
+A-003｜东北西游记_锁定资产清单与归档规则_v15_20261008.md｜v15｜L0｜ACTIVE_CANONICAL｜资产/状态/归档｜https://drive.google.com/file/d/1b2PYRiBPja1HGWMHiwKsmDSYqhbpF7_j/view?usp=drivesdk｜当前锁定资产Source of Truth
 A-004｜AI短视频通用图片资产尺寸与比例标准_v01_20261007｜v01｜L0｜ACTIVE_HARD_SPEC｜视觉资产/关键帧/交付｜system/MEDIA_SPEC.md｜完整逐字收录，不以摘要替代
 A-005｜AI短视频通用视频资产执行标准_v01_20261007｜v01｜L0/L3｜ACTIVE_REFERENCE｜生成/QA/返修｜项目文件｜逐字段以核心/实测核验
 A-006｜当前锁定人物/场景/道具真实资产与Drive链接｜持续更新｜L0/L3｜ACTIVE_MEDIA｜资产/镜头/生成｜v09清单与Drive｜真实媒体事实源
