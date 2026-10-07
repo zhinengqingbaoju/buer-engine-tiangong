@@ -18,6 +18,9 @@ main_branch_modified: no
 - system/PROMPT_COMPILER_CORE.md
 - system/QA_REPAIR_SYSTEM.md
 - system/STORAGE_DELIVERY_SPEC.md
+- system/MEDIA_SPEC.md
+- system/CORE_BINDINGS.md
+- system/ROUTE_CHANGE_LOG.md
 
 新增岗位：
 - roles/ROLE_01_CONTROLLER.md
@@ -46,7 +49,7 @@ T01–T15 全部存在。
 - project_init/DBXYJ_INIT.md
 
 当前阻断：
-- Muse实际清空/安装未执行。
+- Muse实际清空/安装未执行；Muse包运行时不注册额外天工Skill。
 - 21.27四项快速验收未执行。
 - 21.28/21.30真实镜头验证未执行。
 - 21.32六路独立Agent终审未执行。
