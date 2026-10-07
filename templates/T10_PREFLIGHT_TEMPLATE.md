@@ -1,11 +1,13 @@
 # T10 PREFLIGHT
 object_id:
 shot_id:
-prompt_id/version:
+prompt_id:
+prompt_version:
 target_model:
 adapter_version:
 mode:
 authorization_status:
+required_source_versions:
 
 current_contract_version: PASS/FAIL
 asset_versions_current: PASS/FAIL
