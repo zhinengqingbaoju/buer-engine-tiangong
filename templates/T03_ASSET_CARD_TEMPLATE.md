@@ -4,7 +4,7 @@ name:
 category:
 base_identity_id:
 state_version:
-status:
+status: planned / candidate / testing / adopted / locked / deprecated
 canonical_descriptor:
 actual_media_refs:
 drive_urls:
