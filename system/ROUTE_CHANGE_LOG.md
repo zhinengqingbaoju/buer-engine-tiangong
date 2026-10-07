@@ -38,3 +38,16 @@ framework_changed: no
 rollback: 可恢复，但不推荐。
 result: 已修订。
 approved_by: 总指挥Agent在既有小范围授权内执行。
+
+
+## RC-ROUTE-004｜天工从运行Skill改为系统总名，四核心直接绑定岗位
+date: 2026-10-08
+problem_found: 继续保留“天工运行Skill”会在11阶段、7岗位和四核心之外形成多余调用层；用户指出原天工本质是 PROJECT_BRIEF 总则 + LIRA / ACTING / CINEDANCE 三个专业Skill。
+old_route: 任务在需要时先进入天工Skill路由，再到岗位。
+new_route: 天工仅作为整个生产系统名称；SKILL.md只保留安装/系统清单用途。四核心按岗位和task_type自动绑定：视觉资产→Brief+LIRA；导演分镜→CINEDANCE+ACTING+Brief；生成工程按图片/视频任务自动加载；QA按问题类型加载；剪辑→Brief后期。用户不再手动启动天工或专业Skill。
+reason: 消除额外中间层和规则互斥，使专业知识直接落在责任岗位。
+impact_scope: SKILL.md、CORE_BINDINGS.md、Role默认资料绑定。
+framework_changed: no；仍保持11阶段+7岗位+四核心+状态/模板/Adapter。
+rollback: 可恢复运行Skill，但不推荐。
+result: 已实施。
+approved_by: 用户明确提出该结构。
