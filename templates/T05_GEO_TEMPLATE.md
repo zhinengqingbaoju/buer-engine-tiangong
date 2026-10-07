@@ -1,0 +1,21 @@
+# T05 GEO_TEMPLATE
+geo_id:
+scene_id:
+version:
+location_asset_version:
+landmarks:
+spatial_relations:
+entrances:
+exits:
+character_start_zones:
+prop_locations:
+screen_directions:
+axis_180:
+camera_side:
+main_light_direction:
+restricted_zones:
+continuity_in:
+continuity_out:
+diagram_or_reference_refs:
+open_issues:
+status:
