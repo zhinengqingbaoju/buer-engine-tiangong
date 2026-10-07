@@ -15,3 +15,5 @@
 禁止：改宪法、11阶段、7窗口、四核心原文、用户批准创作事实；擅自付费/发布/删除重要归档；把实验升级硬规则。
 
 ROUTE_CHANGE_LOG：change_id/date/problem_found/old_route/new_route/reason/evidence/impact_scope/framework_changed/rollback/result/approved_by(if needed)。
+
+并行执行细则读取 system/PARALLEL_EXECUTION.md。生产中不机械固定6路；按硬依赖和任务可分性决定并发数。
