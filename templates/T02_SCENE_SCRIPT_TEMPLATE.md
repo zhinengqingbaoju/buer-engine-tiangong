@@ -1,6 +1,7 @@
 # T02 SCENE_SCRIPT_TEMPLATE
-scene_id:
+script_id:
 script_version:
+scene_id:
 scene_heading:
 time:
 location:
@@ -18,3 +19,4 @@ action:
 open_questions:
 status:
 approved_by:
+approved_at:
