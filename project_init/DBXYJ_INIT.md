@@ -1,5 +1,5 @@
 # 《东北西游记》项目初始化
-版本：v01_20261007
+版本：v01_20261008
 
 project_id: DBXYJ_2026
 project_name: 东北西游记
@@ -18,7 +18,7 @@ current_stage: UNKNOWN_PENDING_MIGRATION_AUDIT
 - 历史目录“狐仙庙”可保留文件名，但生产事实用“狐仙堂”。
 
 锁定资产Source of Truth：
-东北西游记_锁定资产清单与归档规则_v15_20261007.md
+东北西游记_锁定资产清单与归档规则_v15_20261008.md
 https://drive.google.com/file/d/1b2PYRiBPja1HGWMHiwKsmDSYqhbpF7_j/view?usp=drivesdk
 统一入口：https://drive.google.com/drive/folders/1ydeEH8s3WeKNjF0kiwEJKZxIIyRQKnzD
 v15记录40张锁定原图。导入时不得把候选/历史参考升级为锁定。
