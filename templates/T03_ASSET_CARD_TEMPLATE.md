@@ -1,0 +1,23 @@
+# T03 ASSET_CARD_TEMPLATE
+asset_id:
+name:
+category:
+base_identity_id:
+state_version:
+status:
+canonical_descriptor:
+actual_media_refs:
+drive_urls:
+reference_roles:
+do_not_inherit:
+allowed_use:
+source_decisions:
+known_defects:
+test_scope:
+passed_conditions:
+untested_conditions:
+media_spec:
+replaces_asset_version:
+approved_by:
+approved_at:
+updated_at:
