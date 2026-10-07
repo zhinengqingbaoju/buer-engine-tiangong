@@ -1,0 +1,20 @@
+# T02 SCENE_SCRIPT_TEMPLATE
+scene_id:
+script_version:
+scene_heading:
+time:
+location:
+characters:
+scene_purpose:
+character_objectives:
+conflict:
+turn:
+result:
+continuity_in:
+continuity_out:
+required_assets:
+dialogue_verbatim:
+action:
+open_questions:
+status:
+approved_by:
