@@ -1,0 +1,35 @@
+# T15 EDIT RECORD
+edit_id:
+edit_version:
+project_id:
+episode:
+timeline_name:
+tracks:
+  video:
+  dialogue:
+  ambience:
+  sfx:
+  music:
+clips:
+  - shot_id:
+    generation_id:
+    selection_status:
+    source_in:
+    source_out:
+    timeline_in:
+    timeline_out:
+markers:
+transitions:
+audio_usage:
+subtitle_status:
+cleanup_status:
+color_status:
+vfx_status:
+open_gaps:
+missing_shots:
+final_export:
+export_spec:
+full_playback_checked:
+full_audio_checked:
+review_status:
+approved_by:
